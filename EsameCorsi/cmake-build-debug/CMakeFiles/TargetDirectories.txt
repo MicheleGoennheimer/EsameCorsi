@@ -1,0 +1,3 @@
+C:/Users/mi/Desktop/uni/3 Terzo anno/secondo semestre/Programmmzione avanzata/Preparazione esame/EsameCorsi/cmake-build-debug/CMakeFiles/EsameCorsi.dir
+C:/Users/mi/Desktop/uni/3 Terzo anno/secondo semestre/Programmmzione avanzata/Preparazione esame/EsameCorsi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mi/Desktop/uni/3 Terzo anno/secondo semestre/Programmmzione avanzata/Preparazione esame/EsameCorsi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
